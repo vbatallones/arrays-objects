@@ -16,3 +16,11 @@ while (otherNum < num) {
     console.log(otherNum);
     otherNum+=1
 }
+
+//Make an array
+const shoes = ['Jordan', 'Adidas', 'Puma','New Balance']
+//Use a for loop to iterate through your array
+for (var i = 0; i < shoes.length; i++) {
+//print each element in your array
+console.log(shoes[i])
+}
