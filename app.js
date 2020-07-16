@@ -24,3 +24,31 @@ for (var i = 0; i < shoes.length; i++) {
 //print each element in your array
 console.log(shoes[i])
 }
+
+const rome = {
+    fullName: "Rome Bell",
+    age: 32,
+    myLocation: "Los Angeles",
+    placesTraveled: ["Kentucky", "Ohio", "New York", "Washington DC"],
+  };
+  console.log("rome");
+
+// print teams
+for (var i = 0; i < teams.length; i++) {
+    var eachTeam = teams[1]; // Rockets, Lakers, Warriors...
+    console.log(eachTeam);
+  }
+//old school
+  function arguments (parameters) {
+
+  }
+
+  //mid 
+  const input = function () {
+
+  }
+
+  //newer 
+  const input = (parameter) => {
+      
+  } 
